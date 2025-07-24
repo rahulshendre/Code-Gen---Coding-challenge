@@ -46,3 +46,8 @@ Repeat steps 1-4 using the generated YAML file as input. The emitted YAML file s
    - Edit the Python script to read from `and2.yaml` instead of `and.yaml`.
    - Repeat steps 2–4.
    - Compare the contents of `and2.yaml` and the new output YAML—they should be the same.
+
+
+
+**A step by step handwritten flow (excuse me for the handwriting):**
+![WhatsApp Image 2025-07-24 at 13 35 03_f250a09a](https://github.com/user-attachments/assets/6785c0db-d135-415d-8a7f-c8f060934482)
