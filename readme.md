@@ -7,6 +7,8 @@ Same C program should emit the contents of the C header file in YAML. The YAML f
 Repeat steps 1-4 using the generated YAML file as input. The emitted YAML file should match the generated YAML file this time.
 
 
+**A video showing the demo of the task: https://drive.google.com/file/d/12slaQmSH7UDGNEnWVMp7rTxg1kFE5bHW/view?usp=sharing**
+
 
 **Explaining the task in my words (hopefully I don't mess it up):**
 
